@@ -1,6 +1,6 @@
 {
   "my-first-flag": {
-     "variations": {
+    "variations": {
       "Variation_1": true,
       "Variation_2": false
     },
@@ -26,9 +26,11 @@
     }
   },
   "new-flag-3": {
-    "variations": {},
+    "variations": {
+      "test" : "k"
+    },
     "defaultRule": {
-      "variation": "Variation_1"
+      "variation": "test"
     }
   }
 }
