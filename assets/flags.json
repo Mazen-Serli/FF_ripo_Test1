@@ -1,0 +1,31 @@
+{
+  "my-first-flag": {
+    "variations": {},
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-1": {
+    "variations": {
+      "Variation_1": "true",
+      "Variation_2": "false"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-2": {
+    "variations": {
+      "Variation_1": 1
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-3": {
+    "variations": {},
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  }
+}
