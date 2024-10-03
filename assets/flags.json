@@ -27,7 +27,8 @@
   },
   "new-flag-3": {
     "variations": {
-      "test" : "k"
+      "test": "k",
+"test2": "klkjkl"
     },
     "defaultRule": {
       "variation": "test"
