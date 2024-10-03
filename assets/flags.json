@@ -1,6 +1,9 @@
 {
   "my-first-flag": {
-    "variations": {},
+     "variations": {
+      "Variation_1": true,
+      "Variation_2": false
+    },
     "defaultRule": {
       "variation": "Variation_1"
     }
