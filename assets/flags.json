@@ -28,10 +28,11 @@
   "new-flag-3": {
     "variations": {
       "test": "k",
-"test2": "klkjkl"
+      "test2": "klkjkl",
+      "jo": 987
     },
     "defaultRule": {
-      "variation": "test"
+      "variation": "jo"
     }
   }
 }
