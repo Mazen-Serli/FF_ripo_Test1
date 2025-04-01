@@ -27,12 +27,12 @@
   },
   "new-flag-3": {
     "variations": {
-      "test": "k",
-      "test2": "klkjkl",
-      "jo": 987
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
     },
     "defaultRule": {
-      "variation": "jo"
+      "variation": "Variation_1"
     }
   }
 }
