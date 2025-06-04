@@ -34,5 +34,125 @@
     "defaultRule": {
       "variation": "Variation_1"
     }
+  },
+  "new-flag-4": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-5": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-6": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-7": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-8": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-9": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-10": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-11": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-12": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-13": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-14": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
+  },
+  "new-flag-15": {
+    "variations": {
+      "Variation_1": "k",
+      "Variation_2": "klkjkl",
+      "Variation_3": "987"
+    },
+    "defaultRule": {
+      "variation": "Variation_1"
+    }
   }
 }
